@@ -1,8 +1,8 @@
 import * as React from "react"
 import { storiesOf } from "@storybook/react-native"
-import { StoryScreen, Story, UseCase } from "../../../storybook/views"
-import { color } from "../../theme"
-import { <%= props.pascalName %> } from "./<%= props.kebabCaseName %>"
+import { StoryScreen, Story, UseCase } from "app/../storybook/views"
+import { color } from "app/theme"
+import { <%= props.pascalName %> } from "app/components/<%= props.kebabCaseName %>/<%= props.kebabCaseName %>"
 
 storiesOf("<%= props.pascalName %>", module)
   .addDecorator(fn => <StoryScreen>{fn()}</StoryScreen>)
