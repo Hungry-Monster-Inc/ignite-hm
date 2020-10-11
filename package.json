@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": "Hungry-Monster-Inc/ignite-hm",
   "homepage": "https://github.com/Hungry-Monster-Inc/ignite-hm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "files": [
     "boilerplate.js",
     "boilerplate",
@@ -101,8 +101,8 @@
   },
   "devDependencies": {
     "@semantic-release/git": "^7.0.17",
-    "@types/jest": "^24.0.19",
-    "@types/node": "^12.12.4",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.67",
     "@types/ramda": "0.26.36",
     "@typescript-eslint/eslint-plugin": "^2.11.0",
     "@typescript-eslint/parser": "^2.11.0",
