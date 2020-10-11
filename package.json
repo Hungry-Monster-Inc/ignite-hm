@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": "Hungry-Monster-Inc/ignite-hm",
   "homepage": "https://github.com/Hungry-Monster-Inc/ignite-hm",
-  "version": "15.4.1",
+  "version": "0.1.0",
   "files": [
     "boilerplate.js",
     "boilerplate",
