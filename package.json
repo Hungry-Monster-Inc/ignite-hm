@@ -2,9 +2,9 @@
   "name": "ignite-bowser",
   "description": "Infinite Red's hot boilerplate for React Native.",
   "license": "MIT",
-  "repository": "infinitered/ignite-bowser",
-  "homepage": "https://github.com/infinitered/ignite-bowser",
-  "version": "5.4.1",
+  "repository": "Hungry-Monster-Inc/ignite-bowser",
+  "homepage": "https://github.com/Hungry-Monster-Inc/ignite-bowser",
+  "version": "15.4.1",
   "files": [
     "boilerplate.js",
     "boilerplate",
