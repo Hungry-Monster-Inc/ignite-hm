@@ -1,8 +1,8 @@
-<p align="center"><img src="http://ir_public.s3.amazonaws.com/projects/ignite/ignite-bowser-launch-screen.png" alt="logo" width="414px"></p>
+<p align="center"><img src="http://ir_public.s3.amazonaws.com/projects/ignite/ignite-hm-launch-screen.png" alt="logo" width="414px"></p>
 
 # Ignite Bowser - the hottest React Native boilerplate
 
-<a href="https://badge.fury.io/js/ignite-bowser" target="_blank"><img src="https://badge.fury.io/js/ignite-bowser.svg" alt="npm version" height="20"></a>
+<a href="https://badge.fury.io/js/ignite-hm" target="_blank"><img src="https://badge.fury.io/js/ignite-hm.svg" alt="npm version" height="20"></a>
 
 ## Infinite Red's latest and greatest React Native boilerplate
 
@@ -19,7 +19,7 @@ Includes:
 - Reactotron (requires 2.x)
 - And more!
 
-To see it in action, check out the blog post by Robin Heinze here: [Creating a Trivia App with Ignite Bowser](https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-1-1987cc6e93a1).
+To see it in action, check out the blog post by Robin Heinze here: [Creating a Trivia App with Ignite Bowser](https://shift.infinite.red/creating-a-trivia-app-with-ignite-hm-part-1-1987cc6e93a1).
 
 You can also watch a [live coding demo](https://www.youtube.com/watch?v=OgiFKMd_TeY) at React Live Amsterdam where Jamon Holmgren codes an Ignite Bowser app in less than 30 minutes.
 
@@ -45,14 +45,14 @@ Make sure you have [CocoaPods](https://guides.cocoapods.org/using/getting-starte
 Then spin up a new Bowser-powered React Native app:
 
 ```
-ignite new MyApp -b bowser
+ignite new MyApp -b hm
 ```
 
 `cd` into your new app and run `react-native run-ios` or `react-native run-android` (note: in Android, you'll need an Android emulator running or an Android phone attached).
 
 You should see an app that looks like the screenshot above!
 
-Next step -- follow this tutorial to learn how to create a trivia app with Ignite Bowser: https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-1-1987cc6e93a1
+Next step -- follow this tutorial to learn how to create a trivia app with Ignite Bowser: https://shift.infinite.red/creating-a-trivia-app-with-ignite-hm-part-1-1987cc6e93a1
 
 ## Generators
 
@@ -119,7 +119,7 @@ ignite generate model awesome-model
 
 ### Advanced
 
-The built in generators aren't enough? Fret not, you can create your own generators that suit your project/company. These generators can live with the default ignite-bowser generators.
+The built in generators aren't enough? Fret not, you can create your own generators that suit your project/company. These generators can live with the default ignite-hm generators.
 
 Please refer to the [documentation on how to create your own generators.](https://github.com/infinitered/ignite/blob/master/docs/advanced-guides/creating-generators.md)
 
@@ -194,7 +194,7 @@ This is where your app's models will live. Each model has a directory which will
 **navigation**
 This is where your `react-navigation` navigators will live.
 
-For a walkthrough about how React Navigation v5 works, check out Harris Robin's post: [Getting Started with the New React Navigation v5 and Ignite Bowser v5](https://shift.infinite.red/getting-started-with-the-new-react-navigation-v5-and-ignite-bowser-v5-31fb4a57f2b9).
+For a walkthrough about how React Navigation v5 works, check out Harris Robin's post: [Getting Started with the New React Navigation v5 and Ignite Bowser v5](https://shift.infinite.red/getting-started-with-the-new-react-navigation-v5-and-ignite-hm-v5-31fb4a57f2b9).
 
 **screens**
 This is where your screen components will live. A screen is a React component which will take up the entire screen and be part of the navigation hierarchy. Each screen will have a directory containing the `.tsx` file, along with any assets or other helper files.
@@ -292,7 +292,7 @@ To keep your React Native app updated:
 
 To keep your Ignite Bowser based app updated:
 
-- [ignite-bowser-diff-purge](https://github.com/nirre7/ignite-bowser-diff-purge) To help you see the diffs between versions
+- [ignite-hm-diff-purge](https://github.com/nirre7/ignite-hm-diff-purge) To help you see the diffs between versions
 
 ## TypeScript
 
@@ -317,8 +317,8 @@ If you are new to TypeScript, here are some of our favorite resources:
 
 ## Premium Support
 
-[Ignite CLI](https://infinite.red/ignite), [Ignite Andross](https://github.com/infinitered/ignite-andross), and [Ignite Bowser](https://github.com/infinitered/ignite-bowser), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium Ignite CLI support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
+[Ignite CLI](https://infinite.red/ignite), [Ignite Andross](https://github.com/infinitered/ignite-andross), and [Ignite Bowser](https://github.com/infinitered/ignite-hm), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium Ignite CLI support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
 
 ## Contribute
 
-#### [Contribute to Ignite Bowser](https://github.com/infinitered/ignite-bowser/blob/master/.github/CONTRIBUTING.md) - Getting up and running for your first pull request
+#### [Contribute to Ignite Bowser](https://github.com/infinitered/ignite-hm/blob/master/.github/CONTRIBUTING.md) - Getting up and running for your first pull request

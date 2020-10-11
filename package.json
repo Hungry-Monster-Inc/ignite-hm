@@ -1,9 +1,9 @@
 {
-  "name": "ignite-bowser",
+  "name": "ignite-hm",
   "description": "Infinite Red's hot boilerplate for React Native.",
   "license": "MIT",
-  "repository": "Hungry-Monster-Inc/ignite-bowser",
-  "homepage": "https://github.com/Hungry-Monster-Inc/ignite-bowser",
+  "repository": "Hungry-Monster-Inc/ignite-hm",
+  "homepage": "https://github.com/Hungry-Monster-Inc/ignite-hm",
   "version": "15.4.1",
   "files": [
     "boilerplate.js",
@@ -14,9 +14,9 @@
     "readme.md"
   ],
   "author": {
-    "name": "Infinite Red",
-    "email": "npm@infinite.red",
-    "url": "https://github.com/infinitered/ignite-bowser"
+    "name": "Hungry Monster",
+    "email": "npm@hungrymonster.io",
+    "url": "https://github.com/Hungry-Monster-Inc/ignite-hm"
   },
   "scripts": {
     "format": "npm-run-all format:*",
